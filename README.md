@@ -1,0 +1,1 @@
+# https://angularfirebase.com/lessons/angular-ngrx-redux-starter-guide/#The-Most-Simple-Ngrx-Example
